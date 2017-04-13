@@ -1,0 +1,16 @@
+
+
+dtExportWRP
+P:\Richmond\Richmond.wrp
+dtSatteliteImageImportJPG
+richmond\source
+dtSatteliteNormalMapImport
+richmond\source
+dtShapesExportSHP
+P:\Richmond\data\roads\roads.shp
+dtTemplatesImportTML
+P:\Richmond\TemplateLibs\plp_urban_barriers.tml
+dtTerrainHeightmapImportJPG
+richmond\source
+dtTerrainSurfaceImportJPG
+richmond\source
